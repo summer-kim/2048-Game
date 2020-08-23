@@ -14,7 +14,7 @@ body {
   user-select: none;
   width: 405px;
   height: 405px;
-  background-color: coral;
+  background-color: yellowgreen;
   flex-wrap: wrap;
   display: flex;
 }
